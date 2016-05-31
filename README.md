@@ -1,6 +1,8 @@
 # react-native-loopScroll
 ### react-native的轮播组件
 
+![](https://github.com/zhouyua3253/react-native-loopScroll/blob/master/android.gif)
+![](https://github.com/zhouyua3253/react-native-loopScroll/blob/master/ios.gif)
 
 ### Examples
 
